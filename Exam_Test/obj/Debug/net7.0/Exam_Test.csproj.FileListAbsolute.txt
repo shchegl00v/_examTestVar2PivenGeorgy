@@ -1,0 +1,14 @@
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/bin/Debug/net7.0/Exam_Test
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/bin/Debug/net7.0/Exam_Test.deps.json
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/bin/Debug/net7.0/Exam_Test.runtimeconfig.json
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/bin/Debug/net7.0/Exam_Test.dll
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/bin/Debug/net7.0/Exam_Test.pdb
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/obj/Debug/net7.0/Exam_Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/obj/Debug/net7.0/Exam_Test.AssemblyInfoInputs.cache
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/obj/Debug/net7.0/Exam_Test.AssemblyInfo.cs
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/obj/Debug/net7.0/Exam_Test.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/obj/Debug/net7.0/Exam_Test.dll
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/obj/Debug/net7.0/refint/Exam_Test.dll
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/obj/Debug/net7.0/Exam_Test.pdb
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/obj/Debug/net7.0/Exam_Test.genruntimeconfig.cache
+/Users/admin/RiderProjects/Exam_Test/Exam_Test/obj/Debug/net7.0/ref/Exam_Test.dll
